@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "accountDataLakeName": {
-        "value": "GEN-UNIQUE"
+        "value": "aoaibot25424"
       },
       "location": {
         "value": "eastus2"
       },
         "accountCognitiveSearchName": {
-        "value": "GEN-UNIQUE"
+        "value": "aoaibot25424"
       },
          "serverName": {
-         "value": "GEN-UNIQUE"
+         "value": "aoaibot25424"
       },
         "administratorLogin": {
-        "value": "GEN-UNIQUE"
+        "value": "aoaibot25424"
       },
         "administratorLoginPassword": {
-        "value": "GEN-PASSWORD"
+        "value": "Passw0rd!!"
       },
         "blobContainerName": {
-        "value": "yourowndata"
+        "value": "data"
       }
     }
 }
